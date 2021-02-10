@@ -1,3 +1,10 @@
+# INB Botlist API
+[Inbbotlist](https://inbbotlist.com) used [Dbots](https://dbots.co) license.
+We are very thankfull to [Dbots](https://dbots.co) for this great repository.
+Visit [Website](https://inbbotlist.com), Join [Discord](https://discord.gg/9vjQSMj2zm).
+
+For use this repository please follow the license notice & setup details given below.
+
 # DBots - API
 Quickly and easily find Discord bots. Comes with prebuilt website; just uncomment lines in [api/server.ts](tree/stable/src/api/server.ts) to get this to work.
 
